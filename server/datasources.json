@@ -1,0 +1,11 @@
+{
+  "db": {
+    "host": "localhost",
+    "port": 5432,
+    "database": "test_snap",
+    "username": "api",
+    "password": "password123",
+    "name": "db",
+    "connector": "postgresql"
+  }
+}
